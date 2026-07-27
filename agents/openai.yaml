@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feature Specs"
+  short_description: "Repair fact sources and feature delivery phase gates"
+  default_prompt: "Use $feature-specs to initialize, repair, or restructure the evidence-driven specs workflow, including exploration exit and delivery promotion boundaries."
