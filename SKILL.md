@@ -108,6 +108,10 @@ After initialization:
 For complex reasoning or support claims, read
 [references/evidence-model.md](references/evidence-model.md) before writing.
 
+Read [references/worked-examples.md](references/worked-examples.md) only when an example is
+needed to apply unknown classification, formulate observable acceptance criteria, or distinguish
+partial verification from delivery completion.
+
 ## Use Bounded Exploration Only When Needed
 
 - Copy `assets/optional/exploration.md` for a bounded spike whose process evidence would obscure
